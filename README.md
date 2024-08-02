@@ -185,7 +185,6 @@ I tried `nvidia smi` in the container and it shows
 ```
 It's identical to the host machine.
 
-
 ---
 ## References
 - [SSH Into IGX Document](https://github.com/Smart-Surgery-Eason/Notes/blob/main/SSH%20Into%20IGX.md)
